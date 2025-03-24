@@ -12,13 +12,12 @@
  * Do not edit the class manually.
  */
 
-import { Vehicle } from './vehicle';
- /**
- * 
- *
- * @export
- * @interface Vehicle
- */
+/**
+* 
+*
+* @export
+* @interface Vehicle
+*/
 export interface Vehicle {
 
     /**
